@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [APIv4 at Linode.](https://www.linode.com/products/linode-api/)
 
-- 🚀 I work with Python, Java, C/C++, Node, and Go.
+- 🚀 I work with **Python, Java, C/C++, Node, and Go**.
 
 - 🌱 I’m currently learning **Docker, Kubernetes and Linux**.
 
