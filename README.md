@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [APIv4 at Linode.](https://www.linode.com/products/linode-api/)
 
-- 🌱 I’m currently learning **Docker, Kubernetes and Linux.**.
+- 🌱 I’m currently learning **Docker, Kubernetes and Linux**.
 
 - 😄 Pronouns: [he/him](http://pronouns.is/he)
 
