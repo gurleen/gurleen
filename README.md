@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Gurleen</h1>
+<h3 align="center">A CS student interested in distributed systems + cloud.</h3>
+
+- 🔭 I’m currently working on [APIv4 at Linode.](https://www.linode.com/products/linode-api/)
+
+- 🌱 I’m currently learning **Docker, Kubernetes and Linux.**.
+
+- 😄 Pronouns: [he/him](http://pronouns.is/he)
+
+- 📫 How to reach me: **gs585@drexel.edu**
