@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gurleen</h1>
 <h3 align="center">A CS student interested in distributed systems + cloud.</h3>
 
-- 🔭 I’m currently working on [APIv4 at Linode.](https://www.linode.com/products/linode-api/)
+- 🔭 I’m currently a Software Engineer at Linode working on [APIv4](https://www.linode.com/products/linode-api/).
 
 - 🚀 I work with **Python, Java, C/C++, Node, and Go**.
 
