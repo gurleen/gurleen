@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Docker, Kubernetes and Linux**.
 
-- 😄 Pronouns: [he/him](http://pronouns.is/he)
+- 😄 Pronouns: [he/him](http://pronoun.is/he) _or_ [they/them](http://pronoun.is/they)
 
 - 📫 How to reach me: **gs585@drexel.edu**
