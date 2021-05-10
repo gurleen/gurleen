@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a Software Development Co-op at [Susquehanna International Group](https://sig.com).
 
+- 🏫 I study Computer Science + Entrepreneurship & Innovation at [Drexel University](https://drexel.edu).
+
 - 🚀 I work with **Python, Java, C/C++, Node, and Go**.
 
 - 🌱 I’m currently learning **Docker, Kubernetes and Linux**.
 
-- 😄 Pronouns: [he/him](http://pronoun.is/he) _or_ [they/them](http://pronoun.is/they)
+- 😄 Pronouns: [he/him](https://pronoun.is/he) _or_ [they/them](https://pronoun.is/they)
 
 - 📫 How to reach me: **gs585@drexel.edu**
