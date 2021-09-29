@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gurleen</h1>
-<h3 align="center">A CS student interested in distributed systems + cloud.</h3>
+<h3 align="center">A CS student interested in cloud + programming languages.</h3>
 
-<!-- - 🔭 I’m currently a Software Development Co-op at [Susquehanna International Group](https://sig.com). -->
+- 🔭 I've interned at [Susquehanna International Group](https://sig.com) and [Linode](https://linode.com).
 
 - 🏫 I study Computer Science + Entrepreneurship & Innovation at [Drexel University](https://drexel.edu).
 
