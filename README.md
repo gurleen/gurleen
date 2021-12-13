@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gurleen</h1>
-<h3 align="center">A CS student interested in cloud + programming languages.</h3>
+<h3 align="center">A CS student interested in data science + cloud.</h3>
+
+- ⚾️ I'm an incoming Software Engineering Intern in Baseball R&D at the [Philadelphia Phillies](https://phillies.com/).
 
 - 🔭 I've interned at [Susquehanna International Group](https://sig.com) and [Linode](https://linode.com).
 
-- 🏫 I study Computer Science + Entrepreneurship & Innovation at [Drexel University](https://drexel.edu).
+- 🏫 I study Computer Science + Sports Management at [Drexel University](https://drexel.edu).
 
 - 🚀 I work with **Python, Java, C/C++, Node, and Go**.
 
-- 🌱 I’m currently learning **Docker, Kubernetes and Linux**.
+- 🌱 I’m currently learning about **sports analytics and compilers**.
 
 - 😄 Pronouns: [he/him](https://pronoun.is/he) _or_ [they/them](https://pronoun.is/they)
 
