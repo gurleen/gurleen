@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gurleen</h1>
 <h3 align="center">A CS student interested in data science + cloud.</h3>
 
-- ⚾️ I'm an incoming Software Engineering Intern in Baseball R&D at the [Philadelphia Phillies](https://phillies.com/).
+- ⚾️ I'm an Associate Software Engineer in Baseball R&D at the [Philadelphia Phillies](https://phillies.com/).
 
 - 🔭 I've interned at [Susquehanna International Group](https://sig.com) and [Linode](https://linode.com).
 
